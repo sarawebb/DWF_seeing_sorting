@@ -1,0 +1,3 @@
+field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+Centaurus c4d_180607_042921_osj_r_v1 2018 nan 0.823 25.104 520.0 image1
+Centaurus c4d_180607_041552_osj_i_v1 2018 nan 0.847 25.318 1320.0 image1

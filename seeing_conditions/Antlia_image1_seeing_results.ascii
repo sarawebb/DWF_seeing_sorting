@@ -1,0 +1,4 @@
+field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+Antlia c4d_180608_012524_osj_r_v1 2018 nan 1.116 24.964 468.0 image1
+Antlia c4d_180609_030727_osj_z_v1 2018 nan 0.587 24.504 120.0 image1
+Antlia c4d_180608_010801_osj_i_v1 2018 nan 0.868 25.376 1056.0 image1

@@ -1,0 +1,3 @@
+field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+Dusty11 c4d_180607_033118_osj_i_v1 2018 nan 1.069 25.263 1452.0 image1
+Dusty11 c4d_180607_034443_osj_r_v1 2018 nan 0.804 24.983 572.0 image1

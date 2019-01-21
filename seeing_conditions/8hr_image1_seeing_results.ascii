@@ -1,2 +1,3 @@
-field file year dimmsee dimm2see type
-8hr c4d_180606_231541_osj_i_v1 2018 nan 1.185 image1
+field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+8hr c4d_180606_232904_osj_r_v1 2018 nan 1.268 24.867 780.0 image1
+8hr c4d_180606_231541_osj_i_v1 2018 nan 1.185 25.113 1980.0 image1
