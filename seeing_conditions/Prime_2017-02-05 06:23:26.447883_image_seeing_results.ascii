@@ -2,6 +2,7 @@ field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
 Prime c4d_170207_061806_ooi_r_v1 2017 nan 1.161 24.978 52.0 image
 Prime c4d_170207_062044_ooi_r_v1 2017 nan 0.993 24.946 52.0 image
 Prime c4d_170205_062628_ooi_r_v1 2017 nan nan 24.933 52.0 image
+Prime c4d_170205_062228_osj_r_v1 2017 nan nan 25.052 520.0 image1
 Prime c4d_170205_062750_ooi_r_v1 2017 nan nan 24.956 52.0 image
 Prime c4d_170206_062450_ooi_i_v1 2017 nan 1.035 25.217 132.0 image
 Prime c4d_170205_062348_ooi_r_v1 2017 nan nan 25.049 52.0 image
@@ -9,6 +10,7 @@ Prime c4d_170206_062736_ooi_i_v1 2017 nan 1.029 25.203 132.0 image
 Prime c4d_170206_061646_ooi_i_v1 2017 nan 0.859 25.222 132.0 image
 Prime c4d_170207_061521_ooi_r_v1 2017 nan 0.943 25.058 52.0 image
 Prime c4d_170207_061923_ooi_r_v1 2017 nan 1.107 24.987 52.0 image
+Prime c4d_170206_061646_osj_i_v1 2017 nan 0.859 25.222 660.0 image1
 Prime c4d_170206_062207_ooi_i_v1 2017 nan 0.868 25.189 132.0 image
 Prime c4d_170205_062228_ooi_r_v1 2017 nan nan 25.052 52.0 image
 Prime c4d_170206_061926_ooi_i_v1 2017 nan 0.868 25.191 132.0 image
