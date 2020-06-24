@@ -1,1 +1,13 @@
-field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+field file year "dimmsee (arcsec)" magzpt "exp (S)" type
+NSF2 c4d_160727_101230_ooi_r_v1 2016 nan 24.84343 20.0 image
+NSF2 c4d_160727_103534_ooi_r_v1 2016 nan 24.14899 52.0 image
+NSF2 c4d_160727_101455_ooi_r_v1 2016 nan 24.82293 20.0 image
+NSF2 c4d_160727_103658_ooi_r_v1 2016 nan 24.72599 52.0 image
+NSF2 c4d_160730_103053_ooi_r_v1 2016 nan 24.90799 52.0 image
+NSF2 c4d_160730_103329_ooi_r_v1 2016 nan 25.01149 52.0 image
+NSF2 c4d_160730_102807_ooi_r_v1 2016 nan 24.98399 52.0 image
+NSF2 c4d_160727_101404_ooi_r_v1 2016 nan 24.88742 20.0 image
+NSF2 c4d_160727_101319_ooi_r_v1 2016 nan 24.84043 20.0 image
+NSF2 c4d_160727_101545_ooi_r_v1 2016 nan 24.79042 20.0 image
+NSF2 c4d_160730_102929_ooi_r_v1 2016 nan 24.93299 52.0 image
+NSF2 c4d_160730_103207_ooi_r_v1 2016 nan 24.93799 52.0 image

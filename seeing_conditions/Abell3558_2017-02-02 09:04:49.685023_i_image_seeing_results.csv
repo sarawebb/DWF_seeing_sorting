@@ -1,0 +1,3 @@
+field,file,year,dimmsee (arcsec),dimm2see (arcsec),magzpt,exp (S),type
+Abell3558,c4d_170202_091324_ooi_i_v1,2017,nan,0.668,25.195,132.0,image
+Abell3558,c4d_170202_091608_ooi_i_v1,2017,nan,0.555,25.196,132.0,image

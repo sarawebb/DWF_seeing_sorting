@@ -1,1 +1,2 @@
-field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+field file year "dimmsee (arcsec)" magzpt "exp (S)" type
+dusty12 c4d_160726_003417_osj_i_v1 2016 nan 24.11543 200.0 image1

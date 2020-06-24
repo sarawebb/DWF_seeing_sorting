@@ -1,1 +1,2 @@
-field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+field file year "dimmsee (arcsec)" magzpt "exp (S)" type
+Prime c4d_151218_081438_osj_r_v1 2015 1.072 25.01642 480.0 image1

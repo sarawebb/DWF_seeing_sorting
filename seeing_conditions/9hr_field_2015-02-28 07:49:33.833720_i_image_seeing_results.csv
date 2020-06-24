@@ -1,0 +1,7 @@
+field,file,year,dimmsee (arcsec),dimm2see (arcsec),magzpt,exp (S),type
+9hr_field,c4d_150228_061330_osj_i_v1,2015,nan,1.244,24.93615,1250.0,image1
+9hr_field,c4d_150228_062243_ooi_i_v1,2015,0.993,1.244,25.02115,250.0,image
+9hr_field,c4d_150228_063201_ooi_i_v1,2015,1.013,1.244,24.99715,250.0,image
+9hr_field,c4d_150228_061808_ooi_i_v1,2015,1.162,1.244,25.04515,250.0,image
+9hr_field,c4d_150228_062725_ooi_i_v1,2015,0.964,1.244,24.97365,250.0,image
+9hr_field,c4d_150228_061330_ooi_i_v1,2015,0.997,1.244,24.93615,250.0,image

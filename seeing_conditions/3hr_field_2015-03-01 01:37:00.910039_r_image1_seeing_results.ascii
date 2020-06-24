@@ -1,1 +1,4 @@
 field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+3hr_field c4d_150301_011159_osj_r_v1 2015 1.062 0.457 24.66043 660.0 image1
+3hr_field c4d_150301_004543_osj_r_v1 2015 1.062 0.457 24.40892 660.0 image1
+3hr_field c4d_150301_013809_osj_r_v1 2015 1.062 0.457 24.74842 680.0 image1

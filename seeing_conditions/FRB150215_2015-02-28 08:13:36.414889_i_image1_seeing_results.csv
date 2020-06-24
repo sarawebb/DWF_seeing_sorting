@@ -1,0 +1,6 @@
+field,file,year,dimmsee (arcsec),dimm2see (arcsec),magzpt,exp (S),type
+FRB_150216,c4d_150228_092120_ooi_i_v1,2015,nan,1.244,24.33977,150.0,image
+FRB_150216,c4d_150228_092417_ooi_i_v1,2015,nan,1.244,24.62277,150.0,image
+FRB_150216,c4d_150228_091823_ooi_i_v1,2015,nan,1.244,24.46877,150.0,image
+FRB_150216,c4d_150228_093014_ooi_i_v1,2015,nan,1.244,24.52277,150.0,image
+FRB_150216,c4d_150228_092716_ooi_i_v1,2015,nan,1.244,24.59077,150.0,image

@@ -1,1 +1,6 @@
 field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+FRB131104 c4d_170205_074018_ooi_i_v1 2017 nan nan 25.137 132.0 image
+FRB131104 c4d_170205_074541_ooi_i_v1 2017 nan nan 25.23 132.0 image
+FRB131104 c4d_170205_074254_ooi_i_v1 2017 nan nan 25.252 132.0 image
+FRB131104 c4d_170205_073731_ooi_i_v1 2017 nan nan 24.966 132.0 image
+FRB131104 c4d_170205_073451_ooi_i_v1 2017 nan nan 25.071 132.0 image

@@ -1,0 +1,12 @@
+field,file,year,dimmsee (arcsec),magzpt,exp (S),type
+dusty12,c4d_160726_003909_ooi_i_v1,2016,nan,23.90243,20.0,image
+dusty12,c4d_160726_004000_ooi_i_v1,2016,nan,24.01743,20.0,image
+dusty12,c4d_160726_004046_ooi_i_v1,2016,nan,23.85942,20.0,image
+dusty12,c4d_160726_003645_ooi_i_v1,2016,nan,23.82142,20.0,image
+dusty12,c4d_160726_003824_ooi_i_v1,2016,nan,24.02942,20.0,image
+dusty12,c4d_160726_003417_ooi_i_v1,2016,nan,24.11543,20.0,image
+dusty12,c4d_160726_003554_ooi_i_v1,2016,nan,23.84443,20.0,image
+dusty12,c4d_160726_003506_ooi_i_v1,2016,nan,23.90092,20.0,image
+dusty12,c4d_160726_003733_ooi_i_v1,2016,nan,23.77443,20.0,image
+dusty12,c4d_160726_003417_osj_i_v1,2016,nan,24.11543,200.0,image1
+dusty12,c4d_160726_004137_ooi_i_v1,2016,nan,24.09443,20.0,image

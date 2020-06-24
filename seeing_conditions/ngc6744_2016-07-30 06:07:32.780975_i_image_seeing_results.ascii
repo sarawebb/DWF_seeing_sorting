@@ -1,1 +1,8 @@
 field file year "dimmsee (arcsec)" "dimm2see (arcsec)" magzpt "exp (S)" type
+ngc6744 c4d_160730_061557_ooi_i_v1 2016 nan 1.244 25.40557 132.0 image
+ngc6744 c4d_160730_060753_oow_i_v1 2016 nan 1.244 25.38757 132.0 wtmap
+ngc6744 c4d_160730_060753_osj_i_v1 2016 nan 1.244 25.38757 660.0 image1
+ngc6744 c4d_160730_061316_ooi_i_v1 2016 nan 1.244 25.37757 132.0 image
+ngc6744 c4d_160730_061838_ooi_i_v1 2016 nan 1.244 25.39356 132.0 image
+ngc6744 c4d_160730_060753_ooi_i_v1 2016 nan 1.244 25.38757 132.0 image
+ngc6744 c4d_160730_061034_ooi_i_v1 2016 nan 1.244 25.35156 132.0 image
